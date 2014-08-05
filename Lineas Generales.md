@@ -1,6 +1,6 @@
 # Nexo con Forum de Educacion
-	* Integrar I+D, + Universidades + Industrias (facultades de bioingenieria, licenciatura en Informatica, UTN Civil y Electromecanica)
-	* Creacion de polo tecnologicos, fortalecimiento del Parque Industrial (San Luis)
+  * Integrar I+D, + Universidades + Industrias (facultades de bioingenieria, licenciatura en Informatica, UTN Civil y Electromecanica)
+  * Creacion de polo tecnologicos, fortalecimiento del Parque Industrial (San Luis)
 
 # Forum de produccion
 

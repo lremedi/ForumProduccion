@@ -7,8 +7,7 @@
 ## Fortalecer los sistemas productivos locales
 
 * Financiamiento por Fabricio San Martin
-	
-	-Coordinar y vincular la necesidad de financiamiento de empresas locales con ofertas financieras de instituciones nacionales y provinciales, así como instituciones financieras privadas nacionales e internacionales.
+	* Coordinar y vincular la necesidad de financiamiento de empresas locales con ofertas financieras de instituciones nacionales y provinciales, así como instituciones financieras privadas nacionales e internacionales.
 
 * Creación de dirección de financiación y fomento industrial
 
